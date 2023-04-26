@@ -1,0 +1,117 @@
+body{
+    background-color:hsla(0,0%,100%,.05);
+}
+.box button{
+	width: 375px;
+	height:48px;
+	background-color:#1787E3;
+	border-radius: 7px;
+	color: white;
+	border: 1px solid #1787E3;
+	font-size: 20px;
+	cursor: pointer;
+
+}
+.box input{
+	width: 320px;
+	height:5px;
+	border: 1px solid #ccd0d5;
+	border-radius: 7px;
+	padding: 22px;
+	font-size: 18px;
+}
+.box{
+	border: 1px solid silver;
+	height: 340px;
+	width: 400px;
+text-align: center;
+margin-top:130px;
+margin-left: 750px;
+border-color: white;
+background-color: #FDFEFE;
+display: block;
+border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+ box-sizing: border-box;
+
+
+
+}
+.form{
+	margin-top: 20px;
+
+}
+.box p{
+	color: #1787E3;
+	font-size: 15px;
+} 
+.box #button button{
+	 width: 190px;
+	height:48px;
+	margin-top: -1px;
+	color: white;
+	font-size: 17px;
+	background-color: #2EB706;
+	border:#2EB706;
+	cursor: pointer;
+	margin-left: -2px;
+
+} 
+p{
+text-decoration-color: black;
+color: black;
+}
+ .an a{
+	color: black;
+	margin-left: 780px;
+}
+.text{
+	margin-top: -315px;
+	margin-left: 170px;
+
+
+} .text img{
+	width: 230px;
+}
+.text p{
+	font-size: 28px;
+	margin-top: 15px
+}  
+::placeholder {
+font-size: 17px;
+opacity: 0.9;
+
+} 
+.box p a{
+	color: #1787E3;
+} 
+input[type=text]:focus{
+	color: black;
+	border: 1px solid #1787E3;
+}
+input:not([type="button"]):not([type="submit"]):not([type="reset"]):hover, input:not([type="button"]):not([type="submit"]):not([type="reset"]):focus, textarea:hover, textarea:focus, select:hover, select:focus 
+{    
+    border:1px solid #1787E3;    
+    outline:none;}
+
+.button:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
+} ::hover button{
+	opacity: 1;
+} hr{
+	widows: 50px;
+	opacity: 0.4;
+	margin-bottom: 20px;
+	margin-top: -5px;
+}
+.an p{
+    font-size: 15px;
+}
+h1{
+	
+	color: #1778f2;
+	font-size: 50px;
+}
